@@ -6,7 +6,7 @@ Olá, essa é minha primeira aplicação em C#, desenvolvido com os cursos de C#
 
 Onde utilizei variáveis do tipo string, int e double.
 
-Usei listas, e dicionários usei a chavea do dicionário para poder filtrar as bandas.
+Usei listas, e dicionários usei as chaves do dicionário para poder filtrar as bandas e as notas.
 
 Laços de repetição for e foreach.
 
